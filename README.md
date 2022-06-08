@@ -1,6 +1,7 @@
 # Ants-trail-phermone
 
 Abstract 
+
 In the 1950s, the famous cyberneticists Gordon Pask performed an experiment called the
 Pask’s ear. Unfortunately, the details of their experiment and methods are unavailable.
 Therefore, their experiment has not been replicated, and the precise experiment conditions
